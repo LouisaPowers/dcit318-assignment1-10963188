@@ -1,0 +1,15 @@
+/Users/willyjo1/dcit318-assignment1-10963188/Assignment/Assignment/bin/Debug/net7.0/Assignment
+/Users/willyjo1/dcit318-assignment1-10963188/Assignment/Assignment/bin/Debug/net7.0/Assignment.deps.json
+/Users/willyjo1/dcit318-assignment1-10963188/Assignment/Assignment/bin/Debug/net7.0/Assignment.runtimeconfig.json
+/Users/willyjo1/dcit318-assignment1-10963188/Assignment/Assignment/bin/Debug/net7.0/Assignment.dll
+/Users/willyjo1/dcit318-assignment1-10963188/Assignment/Assignment/bin/Debug/net7.0/Assignment.pdb
+/Users/willyjo1/dcit318-assignment1-10963188/Assignment/Assignment/obj/Debug/net7.0/Assignment.csproj.AssemblyReference.cache
+/Users/willyjo1/dcit318-assignment1-10963188/Assignment/Assignment/obj/Debug/net7.0/Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willyjo1/dcit318-assignment1-10963188/Assignment/Assignment/obj/Debug/net7.0/Assignment.AssemblyInfoInputs.cache
+/Users/willyjo1/dcit318-assignment1-10963188/Assignment/Assignment/obj/Debug/net7.0/Assignment.AssemblyInfo.cs
+/Users/willyjo1/dcit318-assignment1-10963188/Assignment/Assignment/obj/Debug/net7.0/Assignment.csproj.CoreCompileInputs.cache
+/Users/willyjo1/dcit318-assignment1-10963188/Assignment/Assignment/obj/Debug/net7.0/Assignment.dll
+/Users/willyjo1/dcit318-assignment1-10963188/Assignment/Assignment/obj/Debug/net7.0/refint/Assignment.dll
+/Users/willyjo1/dcit318-assignment1-10963188/Assignment/Assignment/obj/Debug/net7.0/Assignment.pdb
+/Users/willyjo1/dcit318-assignment1-10963188/Assignment/Assignment/obj/Debug/net7.0/Assignment.genruntimeconfig.cache
+/Users/willyjo1/dcit318-assignment1-10963188/Assignment/Assignment/obj/Debug/net7.0/ref/Assignment.dll
