@@ -4,9 +4,9 @@ class Program
 {
     static void Main()
     {
-        Console.Write("Enter the length of side 1: ");
-        string input1 = Console.ReadLine();
-        Console.Write("Enter the length of side 2: ");
+    Console.Write("Enter the length of side 1: ");
+     string input1 = Console.ReadLine();
+    Console.Write("Enter the length of side 2: ");
         string input2 = Console.ReadLine();
         Console.Write("Enter the length of side 3: ");
         string input3 = Console.ReadLine();
