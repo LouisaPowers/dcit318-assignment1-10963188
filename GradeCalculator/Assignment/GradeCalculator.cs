@@ -30,9 +30,9 @@ namespace Assignment
                         letterGrade = 'C';
                     }
                     else if (grade >= 60)
-                    {
+              {
                         letterGrade = 'D';
-                    }
+                }
                     else
                     {
                         letterGrade = 'F';
