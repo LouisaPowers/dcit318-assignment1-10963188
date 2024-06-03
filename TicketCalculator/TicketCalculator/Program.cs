@@ -4,12 +4,12 @@ class Program
 {
     static void Main()
     {
-        Console.Write("Enter your age: ");
+     Console.Write("Enter your age: ");
         string input = Console.ReadLine();
         int age;
 
         // Check if the input is a valid integer
-        if (int.TryParse(input, out age))
+    if (int.TryParse(input, out age))
         {
             int ticketPrice;
 
